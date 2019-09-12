@@ -1,0 +1,1 @@
+render partial: "platform.json.jb", locals: { platform: @platform }

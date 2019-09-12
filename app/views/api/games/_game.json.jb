@@ -1,0 +1,7 @@
+{
+  title: game.title,
+  genre: game.genre,
+  description: game.description,
+  platform: game.platform,
+  platform_id: game.platform_id
+}

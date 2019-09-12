@@ -1,0 +1,3 @@
+@platforms.map do |platform| 
+  render partial: "platform.json.jb", locals: { platform: platform }
+end
